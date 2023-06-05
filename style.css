@@ -55,3 +55,9 @@
 #equals:hover{
     background-color: rgb(64, 134, 239);
 }
+
+#description{
+    position: relative;
+    text-align: center;
+    color:rgb(77, 76, 76);
+}
